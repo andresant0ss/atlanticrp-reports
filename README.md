@@ -1,9 +1,4 @@
-# Bug Reports AtlanticRP
+https://medal.tv/games/gta-v/clips/igLFyxQNZy8WD4iip/d13377uJ0ovk?invite=cr-MSxNMkgsMTc5Njg2MTUyLA
 
-Aqui podes fazer submissão de issues relacionados com o servidor AtlanticRP.
 
-Os issues devem ser formulados sempre da mesma maneira -> Report e Reproduction
-
-O Report é a parte que explica o que se passa com o bug e quais são os problemas.
-
-A Reproduction explica como reproduzir o bug, deve incluir um video ou uma descrição passo a passo de como fazer o bug.
+Há 4 ou 5 meses que ando com a mascara do alien porque nao consigo tirar e meter outra. Vou a loja de mascaras e isto acontece sempre.
